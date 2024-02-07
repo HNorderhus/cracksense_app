@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrySegment</string>
+
+
+    <string name="run_model">Run Model</string>
+    <string name="segment">Segment</string>
+</resources>
